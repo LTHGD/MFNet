@@ -1,4 +1,5 @@
 # MFNet
+```
 @ARTICLE{10536183,
   author={Liu, Taiheng and Cao, Guang-Zhong and He, Zhaoshui and Xie, Shengli and Deng, Xiuqin},
   journal={IEEE Transactions on Neural Networks and Learning Systems}, 
@@ -9,3 +10,4 @@
   pages={1-13},
   doi={10.1109/TNNLS.2024.3398654}
   }
+```
